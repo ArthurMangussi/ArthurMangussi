@@ -1,4 +1,9 @@
-### Olá, sou o Arthur
+### Meu nome é Arthur D. Mangussi. Eu sou mestrando em Pesquisa Operacional pelo ITA/UNIFESP e sou bacharelado em Física Médica. 
+
+🔭 Atualmente, estou estudando uma metodologia para lidar com missing and noisy data em problemas de classificação. <br>
+
+💬 Pergunte-me sobre IA, Aprendizado de Máquina, Física Médica... <br>
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ArthurMangussi&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMangussi&langs_count=8&layout=compact&theme=radical)
 
@@ -28,3 +33,4 @@ Minhas ferramentas:
   <a href="https://www.linkedin.com/in/arthur-dantas-mangussi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
