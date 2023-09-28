@@ -23,6 +23,7 @@ Minhas ferramentas:
 - Matplotlib, Seaborn
 - Streamlit
 - Scikit-learn
+- Hugging Face
 
   ##
 
