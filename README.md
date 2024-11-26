@@ -10,22 +10,22 @@ I'm also deeply fascinated by Large Language Models (LLMs) and enjoy exploring h
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMangussi&langs_count=6&layout=compact&theme=tokyonight)
 
 
-##
-
 ## 🎓 Academic Background
 - Master's Degree in Operations Research and Data Science
   - Institution: Aeronautics Institute of Technology (ITA) and Federal University of São Paulo (UNIFESP), Brazil
   - Research: Focused on Data-Centric AI, exploring challenges related to missing data and other real-world data quality issues, including noise and fairness. 
 
 - Master Internship at the University of Coimbra (UC), Portugal
-  - Research: Exploring the usage of Autoencoders (AEs) in Missing Data Imputation. 
+  - Explored the use of Autoencoders (AEs) for Missing Data Imputation. Additionally, I began coding with a focus on prioritizing parallelization and optimizing methods for computational efficiency.
+  - During my stay at the University of Coimbra (UC), I developed a Python library called [**mdatagen**](https://arthurmangussi.github.io/pymdatagen/), designed to simulate artificial missing data scenarios. The library is publicly available on PyPI.
+  - I also worked on improving my technical English, particularly for academic writing and professional conversations. My current level is CEFR B2, with a Duolingo English Test score of 110.
 
 - Bachelor's Degree in Medical Physics
   - Institution: Federal University of Health Sciences of Porto Alegre (UFCSPA)
   - Achievements: Developed the AQMI software, a tool to assess the quality of mammography images.
 The codebase is available on [GitHub](https://github.com/ArthurMangussi/AQMI). The original paper was published in the [Brazilian Journal of Radiation Sciences](https://www.bjrs.org.br/revista/index.php/REVISTA/article/view/2254)
 
-  ##
+
 ## 💻 Technologies & Tools
 Here are the technologies I work with most frequently:
 ### Programming Languages
@@ -45,11 +45,6 @@ Here are the technologies I work with most frequently:
 - **Scientific Writing**: Overleaf, LaTeX
 - **Version Control**: GitHub
 
- ##
-## 🌟 Something Interesting About Me
-- I developed a Python library, **mdatagen**, to simulate artificial missing data scenarios, available on PyPI. 🚀
-
-  ##
   
 ## 📫 How to Reach Me
 <div> 
