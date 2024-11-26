@@ -5,10 +5,6 @@ I'm Arthur Dantas Mangussi, a Machine Learning researcher with a passion for dev
 
 I'm also deeply fascinated by Large Language Models (LLMs) and enjoy exploring how cutting-edge technologies can effectively address real-world challenges.
 
-## 📊 GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ArthurMangussi&show_icons=true&count_private=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMangussi&langs_count=6&layout=compact&theme=tokyonight)
-
 
 ## 🎓 Academic Background
 - Master's Degree in Operations Research and Data Science
