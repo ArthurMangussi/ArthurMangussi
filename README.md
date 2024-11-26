@@ -5,7 +5,7 @@
 💬 Pergunte-me sobre IA, Aprendizado de Máquina, Física Médica... <br>
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ArthurMangussi&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMangussi&langs_count=8&layout=compact&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ArthurMangussi&show_icons=true&count_private=false&hide_title=true&hide=prs&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMangussi&langs_count=8&layout=compact&theme=radical)
 
   ##
 Minhas tecnologias:
