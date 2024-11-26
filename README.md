@@ -1,33 +1,57 @@
-### Meu nome é Arthur D. Mangussi. Eu sou mestrando em Pesquisa Operacional pelo ITA/UNIFESP e sou bacharelado em Física Médica. 
+## About Me
 
-🔭 Atualmente, estou estudando uma metodologia para lidar com missing and noisy data em problemas de classificação. <br>
+Hi there! 👋
+I'm Arthur Dantas Mangussi, a Machine Learning researcher with a passion for developing innovative solutions in Data-Centric AI, with a particular focus on Missing Data. My research spans multiple intersections, including missing data imputation, its relationship with noisy data, fairness, and adversarial machine learning.
 
-💬 Pergunte-me sobre IA, Aprendizado de Máquina, Física Médica... <br>
+I'm also deeply fascinated by Large Language Models (LLMs) and enjoy exploring how cutting-edge technologies can effectively address real-world challenges.
+
+## 📊 GitHub Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ArthurMangussi&show_icons=true&count_private=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMangussi&langs_count=6&layout=compact&theme=tokyonight)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ArthurMangussi&show_icons=true&count_private=false&hide_title=true&hide=prs&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMangussi&langs_count=8&layout=compact&theme=radical)
+##
+
+## 🎓 Academic Background
+- Master's Degree in Operations Research and Data Science
+  - Institution: Aeronautics Institute of Technology (ITA) and Federal University of São Paulo (UNIFESP), Brazil
+  - Research: Focused on Data-Centric AI, exploring challenges related to missing data and other real-world data quality issues, including noise and fairness. 
+
+- Master Internship at the University of Coimbra (UC), Portugal
+  - Research: Exploring the usage of Autoencoders (AEs) in Missing Data Imputation. 
+
+- Bachelor's Degree in Medical Physics
+  - Institution: Federal University of Health Sciences of Porto Alegre (UFCSPA)
+  - Achievements: Developed the AQMI software, a tool to assess the quality of mammography images.
+The codebase is available on [GitHub](https://github.com/ArthurMangussi/AQMI). The original paper was published in the [Brazilian Journal of Radiation Sciences](https://www.bjrs.org.br/revista/index.php/REVISTA/article/view/2254)
 
   ##
-Minhas tecnologias:
-
+## 💻 Technologies & Tools
+Here are the technologies I work with most frequently:
+### Programming Languages
 <div style="display: inline_block">
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">   
   
 </div><br>
 
+### Libraries & Frameworks
+- **Machine Learning & Deep Learning**: TensorFlow, scikit-learn
+- **Data Analysis**: pandas, NumPy, matplotlib, seaborn
+- **Fairness & Bias Mitigation**: AI Fairness 360, Fairlearn
+- **Adversarial Attacks**: ART (Adversarial Robustness Toolbox)
 
-Minhas ferramentas:
+### Tools & Platforms
+- **Development**: Jupyter Notebook, VSCode
+- **Scientific Writing**: Overleaf, LaTeX
+- **Version Control**: GitHub
 
-- Pandas
-- Numpy
-- Matplotlib, Seaborn
-- Streamlit
-- Scikit-learn
-- Hugging Face
+ ##
+## 🌟 Something Interesting About Me
+- I developed a Python library, **mdatagen**, to simulate artificial missing data scenarios, available on PyPI. 🚀
 
   ##
-
-
+  
+## 📫 How to Reach Me
 <div> 
   <a href="https://instagram.com/arthurmangussi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mangussiarthur@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
