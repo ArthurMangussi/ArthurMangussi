@@ -26,15 +26,16 @@ The codebase is available on [GitHub](https://github.com/ArthurMangussi/AQMI). T
 Here are the technologies I work with most frequently:
 ### Programming Languages
 <div style="display: inline-block">
-  <img height="30" width="40"
+  <img align="center" alt="Arthur-Python" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  <img height="30" width="40"
+  <img align="center" alt="Arthur-R" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
 
-  <img height="30" width="40"
+  <img align="center" alt="Arthur-DotNet" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
 </div>
+
 
 
 ### Libraries & Frameworks
