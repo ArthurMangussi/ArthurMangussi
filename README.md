@@ -25,7 +25,7 @@ The codebase is available on [GitHub](https://github.com/ArthurMangussi/AQMI). T
 ## 💻 Technologies & Tools
 Here are the technologies I work with most frequently:
 ### Programming Languages
-<div style="display: flex; gap: 10px;">
+<div style="display: inline-block">
   <img height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
