@@ -1,57 +1,56 @@
-## About Me
+# Hi there, I'm Arthur Dantas Mangussi 👋
 
-Hi there! 👋
-I'm Arthur Dantas Mangussi, a Machine Learning researcher with a passion for developing innovative solutions in Data-Centric AI, with a particular focus on Missing Data. My research spans multiple intersections, including missing data imputation, its relationship with noisy data, fairness, and adversarial machine learning.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-mangussi)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com.br/citations?user=z0qKMRYAAAAJ&hl=pt-BR)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2086-532X)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arthuradm@ita.br)
 
-I'm also deeply fascinated by Large Language Models (LLMs) and enjoy exploring how cutting-edge technologies can effectively address real-world challenges.
+I am a Artificial Intelligence Researcher, Backend Developer, and PhD Candidate in Data Science at the **Aeronautics Institute of Technology (ITA)**. My work sits at the intersection of **Data-Centric AI, Generative Modeling, and Healthcare**, investigating how Large Language Models and Diffusion Models can solve missing data challenges across tabular datasets and medical imaging.
 
+---
 
-## 🎓 Academic Background
-- Master's Degree in Operations Research and Data Science
-  - Institution: Aeronautics Institute of Technology (ITA) and Federal University of São Paulo (UNIFESP), Brazil
-  - Research: Focused on Data-Centric AI, exploring challenges related to missing data and other real-world data quality issues, including noise and fairness. 
+### 🎓 Academic Background & Honors
 
-- Master Internship at the University of Coimbra (UC), Portugal
-  - Explored the use of Autoencoders (AEs) for Missing Data Imputation. Additionally, I began coding with a focus on prioritizing parallelization and optimizing methods for computational efficiency.
-  - During my stay at the University of Coimbra (UC), I developed a Python library called [**mdatagen**](https://arthurmangussi.github.io/pymdatagen/), designed to simulate artificial missing data scenarios. The library is publicly available on PyPI.
-  - I also worked on improving my technical English, particularly for academic writing and professional conversations. My current level is CEFR B2, with a Duolingo English Test score of 110.
+- **PhD in Data Science** — Aeronautics Institute of Technology (ITA / PPG-PO) `[2025 – Present]`
+  - *Visiting PhD Researcher (PDSE/CAPES Scholarship)* — Portugal (Generative AI & Medical Image Reconstruction)
+- **MSc in Operations Research & Data Science** — ITA & UNIFESP
+  - 🏆 **1st Place** at the CTD / CSBC (Brazilian Computer Society) Thesis & Dissertation Contest
+  - 🥉 **3rd Place** at the Brazilian Symposium on Operations Research (SBPO)
+- **BSc in Medical Physics** — UFCSPA
 
-- Bachelor's Degree in Medical Physics
-  - Institution: Federal University of Health Sciences of Porto Alegre (UFCSPA)
-  - Achievements: Developed the AQMI software, a tool to assess the quality of mammography images.
-The codebase is available on [GitHub](https://github.com/ArthurMangussi/AQMI). The original paper was published in the [Brazilian Journal of Radiation Sciences](https://www.bjrs.org.br/revista/index.php/REVISTA/article/view/2254)
+---
 
+### 🔬 Research Interests
+- Missing Data Imputation
+- Data-Centric AI
+- Generative AI
+- Medical Image Reconstruction
+- Responsible AI
 
-## 💻 Technologies & Tools
-Here are the technologies I work with most frequently:
-### Programming Languages
-<img align="center" alt="Arthur-Python" height="30" width="40"
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Arthur-R" height="30" width="40"
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-<img align="center" alt="Arthur-DotNet" height="30" width="40"
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+### 💻 Technologies
 
+- **Languages**: Python, R, .NET
+- **ML/DL**: PyTorch, TensorFlow, scikit-learn, XGBoost, TabPFN
+- **Data Science**: pandas, NumPy, matplotlib, seaborn
+- **Tools**: Git, GitHub, Jupyter, VS Code, LaTeX, Overleaf
 
+---
 
+### 📦 Featured Packages & Open Source
 
-### Libraries & Frameworks
-- **Machine Learning & Deep Learning**: TensorFlow, scikit-learn
-- **Data Analysis**: pandas, NumPy, matplotlib, seaborn
-- **Fairness & Bias Mitigation**: AI Fairness 360, Fairlearn
-- **Adversarial Attacks**: ART (Adversarial Robustness Toolbox)
+#### 🔹 [TabRAG-XAI-Imputer](https://github.com/ArthurMangussi/TabRAG-XAI-Imputer)
+> *Retrieval-Augmented Generation & Explainable AI for Tabular Missing Data Imputation.*
+- Leverages **RAG** and **Large Language Models (LLMs)** to impute missing tabular attributes conditioned on relevant context retrieved from observed data.
+- Built on top of the **scikit-learn API** architecture (`fit` / `transform`) with native support for explainability metrics.
+- [![GitHub repo](https://img.shields.io/badge/Repo-TabRAG--XAI--Imputer-181717?style=flat-square&logo=github)](https://github.com/ArthurMangussi/TabRAG-XAI-Imputer) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
-### Tools & Platforms
-- **Development**: Jupyter Notebook, VSCode
-- **Scientific Writing**: Overleaf, LaTeX
-- **Version Control**: GitHub
+#### 🔹 [mdatagen](https://github.com/ArthurMangussi/mdatagen)
+> *A Python library for synthetic missing-data generation under realistic mechanisms.*
+- Generates controlled missingness benchmarks under **MCAR**, **MAR**, and **MNAR** mechanisms for robust tabular evaluation.
+- [![PyPI version](https://img.shields.io/pypi/v/mdatagen?style=flat-square&color=blue)](https://pypi.org/project/mdatagen/) [![GitHub stars](https://img.shields.io/github/stars/ArthurMangussi/mdatagen?style=flat-square)](https://github.com/ArthurMangussi/mdatagen)
 
-  
-## 📫 How to Reach Me
-<div> 
-  <a href="https://instagram.com/arthurmangussi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mangussiarthur@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/arthur-dantas-mangussi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+---
 
+### 📫 Get in Touch
+
+- 🌐 Collaborative research, PhD exchange inquiries, or preprint discussions: [LinkedIn](https://linkedin.com/in/arthur-mangussi) or [Email](mailto:arthuradm@ita.br)
