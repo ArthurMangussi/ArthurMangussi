@@ -1,6 +1,6 @@
 # Hi there, I'm Arthur Dantas Mangussi 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-mangussi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-dantas-mangussi/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com.br/citations?user=z0qKMRYAAAAJ&hl=pt-BR)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2086-532X)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arthuradm@ita.br)
@@ -53,4 +53,4 @@ I am a Artificial Intelligence Researcher, Backend Developer, and PhD Candidate 
 
 ### 📫 Get in Touch
 
-- 🌐 Collaborative research, PhD exchange inquiries, or preprint discussions: [LinkedIn](https://linkedin.com/in/arthur-mangussi) or [Email](mailto:arthuradm@ita.br)
+- 🌐 Collaborative research, PhD exchange inquiries, or preprint discussions: [LinkedIn]([https://linkedin.com/in/arthur-mangussi](https://www.linkedin.com/in/arthur-dantas-mangussi/)) or [Email](mailto:arthuradm@ita.br)
