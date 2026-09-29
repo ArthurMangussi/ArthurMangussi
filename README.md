@@ -39,7 +39,7 @@ I am a Artificial Intelligence Researcher, Backend Developer, and PhD Candidate 
 ### 📦 Featured Packages & Open Source
 
 #### 🔹 [TabRAG-XAI-Imputer](https://github.com/ArthurMangussi/TabRAG-XAI-Imputer)
-> *Retrieval-Augmented Generation & Explainable AI for Tabular Missing Data Imputation.*
+> *TRAXI: An Explainable Retrieval-Augmented Framework for LLM-Based Tabular Missing Data Imputation.*
 - Leverages **RAG** and **Large Language Models (LLMs)** to impute missing tabular attributes conditioned on relevant context retrieved from observed data.
 - Built on top of the **scikit-learn API** architecture (`fit` / `transform`) with native support for explainability metrics.
 - [![GitHub repo](https://img.shields.io/badge/Repo-TabRAG--XAI--Imputer-181717?style=flat-square&logo=github)](https://github.com/ArthurMangussi/TabRAG-XAI-Imputer) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
